@@ -6,6 +6,17 @@ Advanced data analytics Notes
 ### A. Definition of key concepts
 #### 1. Data
 #### 2. Data Analysis
+#### a. Components of Analytical thinking
+
+Curiosity: an inclination to seek additional knowledge, posing appropriate inquiries
+
+Grasping context: comprehending the relevance of information within the broader framework
+
+Adopting a technical mindset: decomposing complex matters into smaller, manageable components
+
+Data organization: contemplating the arrangement and structure of data and information
+
+Data management approach: considering the individuals, workflows, and tools employed in data analysis
 #### 3. Data Ecosystem
 
 ## II. Data in Everyday Life
