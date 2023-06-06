@@ -21,6 +21,16 @@ Data analysis life cycle
 4. Analyze
 5. Share
 6. Act
+
+
+Data Analysis tools:
+Spreadsheets, such as Microsoft Excel and Google Sheets, are important tools for data analysts. They allow for the collection, storage, organization, and sorting of data. Spreadsheets also help in identifying patterns and structuring data for specific projects. Additionally, they enable the creation of data visualizations, including graphs and charts.
+
+Databases are collections of structured data stored in computer systems. Popular database systems like MySQL, Microsoft SQL Server, and BigQuery use Structured Query Language (SQL). SQL query languages allow analysts to isolate specific information from databases, making it easier to understand and manipulate data for analysis.
+
+Visualization tools like Tableau and Looker are commonly used by data analysts. These tools help transform complex data into understandable stories, allowing stakeholders to draw conclusions and make informed decisions. Tableau provides a simple drag-and-drop feature for creating interactive graphs, while Looker directly connects with databases, allowing data to be visualized in the chosen tool.
+
+Data analysts also work with programming languages like R and Python. These languages are widely used for statistical analysis, data visualization, and other data analysis tasks.
 #### a. Components of Analytical thinking
 
 1. Curiosity: an inclination to seek additional knowledge, posing appropriate inquiries
